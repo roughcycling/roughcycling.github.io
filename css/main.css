@@ -96,12 +96,90 @@ textarea {
    ========================================================================== */
 
 
+#logo {
+  display: block;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: url(/img/logo.svg);
+  background-size: auto 60%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+}
+
+@media screen and (orientation:portrait) {
+    #logo {
+      background-size: 60% auto;
+    }
+}
 
 
+#header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  background: rgba(0,0,0,0.8);
+  padding: 10px 1em;
+  color: white;
+  font-size: 1.5em;
+  border-bottom-left-radius: 0.6em;
+  border-bottom-right-radius: 0.6em;
+  margin-left: 5%;
+  font-weight: bold;
+}
 
 
+#footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.5);
+  padding: 0.6em;
+  color: white;
+  text-align: right;
+  font-size: 1.4em;
+  border-top-left-radius: 0.6em;
+}
 
+#footer a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  opacity: 0.6;
+  transition: opacity 0.5s;
+}
 
+#footer a:hover,
+#footer a:focus {
+  opacity: 1;
+}
+
+#footer a:first-of-type {
+  margin-left: 0;
+}
+
+#footer a .icon-strava {
+  display: inline-block;
+  height: 1em;
+  width: 1.8em;
+  background: url(/img/icon_strava.svg) no-repeat;
+  background-size: contain;
+  position: relative;
+  top: 2px;
+  border-right: thin solid white;
+}
+
+#contact-box {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  background: rgba(0,0,0,0.5);
+  padding: 10px;
+  color: white;
+  font-size: 0.8em;
+  margin-bottom: 4.5em;
+}
 
 
 

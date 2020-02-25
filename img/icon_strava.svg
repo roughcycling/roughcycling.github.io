@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="27"
+   height="40"
+   viewBox="0 0 27 40"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon_strava.svg">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>strava logo white &amp; orange</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     id="namedview17"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="4.4095238"
+     inkscape:cx="-24.452484"
+     inkscape:cy="25.535638"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="strava-logo-white-&amp;-orange" />
+  <!-- Generator: Sketch 3.0.2 (7799) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">strava logo white &amp; orange</title>
+  <description>Created with Sketch.</description>
+  <defs
+     id="defs6" />
+  <g
+     id="My-Badge-Sprites"
+     sketch:type="MSPage"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-13,-5)">
+    <g
+       id="strava-logo-white-&amp;-orange"
+       sketch:type="MSArtboardGroup">
+      <g
+         id="echelon-white"
+         sketch:type="MSLayerGroup"
+         transform="translate(13,5)"
+         style="fill:#ffffff">
+        <path
+           d="m 11,14 4,9 7,0 L 11,0 0,23 l 7,0 4,-9"
+           id="Fill-13"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 19,40 -8,-17 5,0 3,7 3,-7 5,0 -8,17"
+           id="Fill-12"
+           sketch:type="MSShapeGroup"
+           inkscape:connector-curvature="0"
+           style="fill-opacity:0.5" />
+      </g>
+    </g>
+  </g>
+</svg>
